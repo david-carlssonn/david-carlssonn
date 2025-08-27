@@ -1,16 +1,13 @@
-## Hi there 👋
+## Welcome!
 
-<!--
-**david-carlssonn/david-carlssonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I am David Carlsson, and I am pursuing my bachelors in Computer Engineering at San Diego State University. I am a highly ambitious student who is interested in the field of embedded systems.
 
-Here are some ideas to get you started:
+## Projects:
+- 4x4 Musical notepad (C)
+- Reaction Time Game (Verilog)
+- 12-Hour Digital Clock w/ Alarm (Verilog)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests:
+- Embedded Systems
+- Computer Repair
+- Gym
